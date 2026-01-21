@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Comp Bio_Webpage_2026"
@@ -9,7 +10,7 @@ website:
         text: Home
       - about.qmd
       -homeworklinks.qmd
-      
+
 
 format:
   html:
